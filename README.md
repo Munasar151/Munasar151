@@ -1,4 +1,4 @@
-### Hi there https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.webp?cid=ecf05e47sr0yho6lblaw39tms06fjpxto8alddl2rko4rpn5&rid=200.webp&ct=g, My name is Munasar Muhidin
+### Hi there https://giphy.com/embed/WTJLe0xXX6QrPg1nVl" width="30px" height="30px", My name is Munasar Muhidin
 ---
 A student who is eager to gain confidence in languages such as Python, C# HTML, CSS. I am currently studying for a degree in Computing with Information Technology.
 
