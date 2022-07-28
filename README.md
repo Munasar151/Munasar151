@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Munasar Muhidin
+### Hello, My name is Munasar Muhidin
 ---
 A student who is eager to gain confidence in languages such as Python, C# HTML, CSS. I am currently studying for a degree in Computing with Information Technology.
 
