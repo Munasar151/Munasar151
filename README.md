@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Muhammad Sufyaan Hafs
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Munasar Muhidin
 ---
 ![Website](https://img.shields.io/website?down_color=black&down_message=offline&label=techihq.com&up_color=purple&up_message=online&url=https%3A%2F%2Ftechihq.com)
 ---
