@@ -1,4 +1,4 @@
-### Hi there https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1 width="30px" height="30px", My name is Munasar Muhidin
+### Hi there <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">, My name is Munasar Muhidin
 ---
 A student who is eager to gain confidence in languages such as Python, C# HTML, CSS. I am currently studying for a degree in Computing with Information Technology.
 
