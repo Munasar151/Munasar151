@@ -1,8 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Munasar Muhidin
 ---
-![Website](https://img.shields.io/website?down_color=black&down_message=offline&label=techihq.com&up_color=purple&up_message=online&url=https%3A%2F%2Ftechihq.com)
----
-A student who is aiming for a degree in computer science and is currently studying programming languages such as Python, C#, Visual Basic, HTML, CSS and Javascript.
+A student who is eager to gain confidence in languages such as Python, C# HTML, CSS. I am currently studying for a degree in Computing with Information Technology.
 
 ---
 🧰 Toolbox
