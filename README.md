@@ -1,6 +1,6 @@
 ### Hello, My name is Munasar Muhidin
 ---
-I am a student who is eager to gain confidence in languages such as Python, C# HTML, CSS. I am currently studying for a degree in Computing with Information Technology.
+I'm a student who is keen to develop my proficiency in programming languages like Python, C#, HTML, and CSS. I'm pursuing a degree in computing with information technology at the moment.
 
 ---
 🧰 Toolbox
